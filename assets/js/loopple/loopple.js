@@ -6,3 +6,5 @@ document.querySelector('.loopple-alert.loopple-alert-dismissible .close').onclic
    document.querySelector('.loopple-alert').remove();
  }, 1000);
 }
+
+
